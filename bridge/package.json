@@ -1,0 +1,13 @@
+{
+  "name": "cappp-serial-bridge",
+  "version": "1.0.0",
+  "description": "Serial bridge for ICPS project",
+  "main": "serial_server.js",
+  "scripts": {
+    "start": "node serial_server.js"
+  },
+  "dependencies": {
+    "serialport": "^12.0.0",
+    "ws": "^8.16.0"
+  }
+}
