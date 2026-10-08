@@ -156,13 +156,18 @@ This physical project directly maps to the following CAPP concepts (visualized i
 
 ---
 
-## 👥 Team Members (Group 89)
+## 👥 Team Contributions (Group 89)
 
-- **Tanay Dubey**
-- **Urvashi Anand**
-- **Vinayak Dev Tiwari**
-- **Vishal Gangwar**
-- **Vikas Pal** *(Hardware, Circuit, Relay/Fan Integration)*
+- **Tanay Dubey** — *Threshold Logic, Test Plan & Data*
+  - Responsible for threshold logic, fan ON/OFF control, hysteresis, testing strategy, and test data.
+- **Urvashi Anand** — *Unit 2 Floating Point, IEEE 754 & References*
+  - Responsible for floating-point concepts, IEEE 754 calculations, and technical references.
+- **Vinayak Dev Tiwari** — *Unit 3 Mapping*
+  - Responsible for mapping Unit 3 CAPP concepts including instruction types, instruction cycle, microoperations, program control, RISC/CISC, pipelining, and control concepts.
+- **Vikas Pal** — *Hardware, Circuit, Relay/Fan Integration*
+  - Responsible for hardware implementation, circuit integration, relay integration, and DC fan integration.
+- **Vishal Gangwar** — *Documentation & System Design Update*
+  - Responsible for project documentation and system design updates.
 
 ---
 <div align="center">
